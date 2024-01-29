@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ennio\OneDrive\Documentos\BIMBO-Sistema-Materia-Prima\test\bimbo\Bimbo\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controles\CustomeDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controles\CustomeMaskedTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controles\CustomerComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controles\CustomeTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Vistas\MateriaPrima\EntradaPorPesoBalanza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\GestionarMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\GestionarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\GestionarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\MainControlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controles\RoundedBtn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Vistas\MateriaPrima\EntradaPorPesoTeorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\MateriaPrima\VistaMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Reportes\ReportesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
